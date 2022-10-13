@@ -1,4 +1,4 @@
-#### To compile:`
+#### To compile:
 ```javac App*.java```
 
 #### To run AppA:
